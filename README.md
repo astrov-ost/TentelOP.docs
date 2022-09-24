@@ -1,2 +1,5 @@
 # TentelOP.docs
-Security Documentation
+Documentation
+
+## Basic information
+[First Steps to Protect the Server]()
