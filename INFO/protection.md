@@ -1,3 +1,6 @@
+##### © Tentel Team 2022
+
+
 ## The bot is an automatic defender for your server.
 
 ##### The bot removes the Crash Bots that are set in the Tentel bot system in a special code section.
