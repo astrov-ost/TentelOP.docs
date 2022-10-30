@@ -1,3 +1,6 @@
+##### © Tentel Team 2022
+
+
 ### Introduction
 ###### Bot Tentel helps to cope with DDoS-attacks from Crash Bots. Tentel has a "signature segmentation" to eliminate Crash Bots. This means that our bot immediately destroys the source of the problems, the crash bot itself. The bot works as soon as it enters the server!
 
