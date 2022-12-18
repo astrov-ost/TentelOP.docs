@@ -44,7 +44,7 @@ to your server
 #### The main function of the bot is protection against vulnerabilities, that is, Crash.
 #### There are a lot of crash bots at the present time, and good protection either costs money, or it doesn’t exist at all.
 
-##### *Bot Tentel helps to cope with DDoS-attacks from Crash Bots. Tentel has a "signature segmentation" to eliminate Crash Bots. This means that our bot immediately destroys the source of the problems, the crash bot itself. The bot works as soon as it enters the server!*
+##### *Bot Tentel helps to cope with DDoS-attacks from Crash Bots. Tentel has a "signature segmentation" to eliminate Crash Bots. This means that our bot immediately destroys the source of the problems, the crash bot itself.*
 
 ---
 
