@@ -1,4 +1,7 @@
 # TentelOP.docs
+![](https://img.shields.io/badge/©TentelCrew-©.svg)
+![](https://img.shields.io/badge/TentelBotDocs--©.svg)
+==
 [Documentation](https://github.com/astrov-ost/TentelOP.docs/blob/main/documentation.md)
 
 ## Basic information
