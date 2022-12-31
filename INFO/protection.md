@@ -1,4 +1,4 @@
-##### © Tentel Crew 2022
+##### © Tentel Crew 2022-2023
 
 
 ## The bot is an automatic defender for your server.
