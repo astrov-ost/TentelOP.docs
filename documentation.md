@@ -52,12 +52,12 @@ to your server
 #### It is necessary to move the role 'Tentel Operative' to the very top of the list of roles.
 
 #### All other bots must be on the bottom (for general safety).
-#### To enable Crash (Nuke) Bots removal security mode, enter the command t_protect.
+#### To enable Crash (Nuke) Bots removal security mode, enter the command `t_protect`.
 
 ---
 
 - ### Link Security
-#### Security is about eliminating dangerous links. You can enable protection with the command t_block-link on.
+#### Security is about eliminating dangerous links. You can enable protection with the command `t_block-link on`.
 
 ---
 
