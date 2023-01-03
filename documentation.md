@@ -2,7 +2,7 @@
 
 - ### The multifunctional bot Tentel was created to help Discord users.
 #### Basically, the bot is used for moderation, or for protection from crash bots.
-#### The main task, precisely, is to protect the server from Crash Bots.
+#### The main task, precisely, is to protect the server from Crash (Nuke) Bots.
 
 #### I, the creator of Tentel, ost#4823, I am responsible for my product.
 #### Everything that happens "around" my bot should concern me, regarding this privacy policy.
@@ -41,10 +41,10 @@ to your server
 ---
 
 - ### Functions
-#### The main function of the bot is protection against vulnerabilities, that is, Crash.
-#### There are a lot of crash bots at the present time, and good protection either costs money, or it doesn’t exist at all.
+#### The main function of the bot is protection against vulnerabilities, that is, Crash (Nuke).
+#### There are a lot of Crash (Nuke) bots at the present time, and good protection either costs money, or it doesn’t exist at all.
 
-##### *Bot Tentel helps to cope with DDoS-attacks from Crash Bots. Tentel has a "signature segmentation" to eliminate Crash Bots. This means that our bot immediately destroys the source of the problems, the crash bot itself.*
+##### *Bot Tentel helps to cope with DDoS-attacks from Crash (Nuke) Bots. Tentel eliminates all bots that are not on its whitelist.*
 
 ---
 
@@ -52,7 +52,7 @@ to your server
 #### It is necessary to move the role 'Tentel Operative' to the very top of the list of roles.
 
 #### All other bots must be on the bottom (for general safety).
-#### To enable Crash Bots removal security mode, enter the command t_protect.
+#### To enable Crash (Nuke) Bots removal security mode, enter the command t_protect.
 
 ---
 
